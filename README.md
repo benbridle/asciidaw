@@ -1,9 +1,9 @@
-# AsciiDAW
+# TAPEDECK
 
-A fully terminal-based Digital Audio Workstation application.
+A fully in-terminal digital audio workstation.
 
 ## Setup
 
-AsciiDAW requires the RtAudio library, which can be downloaded by running `apt install librtaudio-dev` on Ubuntu or Debian.
+TAPEDECK requires the RtAudio library, which can be installed on Ubuntu/Debian with `apt install librtaudio-dev`.
 
-Run `make` to compile AsciiDAW, and launch by running the newly-created executable `asciidaw`. 
+Compile and run TAPEDECK by running `make && ./tapedeck`.
